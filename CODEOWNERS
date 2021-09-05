@@ -1,4 +1,5 @@
 @coryjamesfisher
 
-/.github/workflows/c#_code_scan.yml @cjf-policyadmin
-/.github/workflows/dotnet.yml @cjf-techlead
+.github/workflows/c#_code_scan.yml @cjf-policyadmin
+
+.github/workflows/dotnet.yml @cjf-techlead
